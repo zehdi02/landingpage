@@ -153,12 +153,18 @@ button {
     flex-direction: column;
     margin-top: 5px;
     padding-left: 150px;
+    max-width: 450px;
 }
 
 .contact .h {
     font-weight: 800;
     font-size: 24px;
     margin-bottom: 0;
+}
+
+.header .logo {
+    width: 50px;
+    height: auto;
 }
 
 .contact .sign {
