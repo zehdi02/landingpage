@@ -110,3 +110,66 @@ button {
     max-width: 200px;
     text-align: center;
 }
+
+
+.testim {
+    background-color: #e5e7eb;
+    padding-top: 150px ;
+    padding-bottom: 150px ;
+    padding-left: 450px;
+    padding-right: 450px;
+}
+
+.words {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.author {
+    display: flex;
+    flex-direction: row-reverse;
+    font-weight: bold;
+}
+
+.contact {
+    padding: 100px 300px;
+}
+
+.contact .container {
+    display: flex;
+    background-color: rgb(66, 148, 255);
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 0px;
+    padding-right: 0px;
+    justify-content: flex-start;
+}
+
+.contact .text {
+    display: flex;
+    color: white;
+    flex-direction: column;
+    margin-top: 5px;
+    padding-left: 150px;
+}
+
+.contact .h {
+    font-weight: 800;
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+.contact .sign {
+    border-color: white;
+    border: solid;
+    border-radius: 10px;
+    border-width: 2px;
+}
+
+.contact .signup {
+    display: flex;
+    padding-left: 400px;
+    padding-top: 20px;
+}
