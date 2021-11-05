@@ -173,3 +173,12 @@ button {
     padding-left: 400px;
     padding-top: 20px;
 }
+
+.footer {
+    text-align: center;
+    background-color: #1f2937;
+    color: white;
+    font-weight: medium;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
